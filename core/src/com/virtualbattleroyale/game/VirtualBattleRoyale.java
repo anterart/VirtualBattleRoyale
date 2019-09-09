@@ -45,3 +45,4 @@ public class VirtualBattleRoyale extends ApplicationAdapter {
 		sr.dispose();
 	}
 }
+// this is a comment
